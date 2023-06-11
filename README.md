@@ -1,7 +1,8 @@
+[![MasterHead](https://i.gifer.com/9WsF.gif)](https://github.com/YannisE21)
 <h1 align="center">Hi 👋, I'm Yannis</h1>
 <h3 align="center">A passionate python developer from Germany</h3>
 
-<iframe src="https://gifer.com/embed/9WsF" width=480 height=202.759 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9WsF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yannise21&label=Profile%20views&color=0e75b6&style=flat" alt="yannise21" /> </p>
 
