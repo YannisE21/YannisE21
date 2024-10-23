@@ -16,7 +16,3 @@ I enjoy working with:
 I’m always experimenting and learning, so keep an eye out for more cool projects coming soon!
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisE21&theme=blue-green)
-
-## 💬 Let’s Chat!
-
-If you want to chat about coding, share ideas, or even collaborate on something cool, feel free to reach out.
