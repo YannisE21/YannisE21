@@ -1,7 +1,5 @@
 # Hi, I'm Yannis 👋
 
-Hey there! I'm Yannis, a passionate Python developer who loves experimenting with code, building fun projects, and solving tricky problems. Welcome to my GitHub corner! 😊 Here, you’ll find some of my favorite projects and personal experiments.
-
 ## 🔧 Tech I’m Into
 
 I enjoy working with:
